@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Color Palette Generator",
+  "description": "A modern React application that generates harmonious multi-color palettes from a single base color using pure JavaScript color math. Features include multiple color harmony rules (monochromatic, complementary, etc.), a vibrant cosmic-themed UI, and in-depth content on color theory.",
+  "requestFramePermissions": []
+}
