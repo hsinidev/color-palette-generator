@@ -4,7 +4,7 @@
   <img src="https://picsum.photos/1200/600?grayscale&blur=2" alt="Doodax Color Palette Generator Banner" style="border-radius: 10px; margin-bottom: 20px;">
   
   <p align="center">
-    <a href="https://doodax.com" target="_blank">
+    <a href="https://doodax.com/tools/cosmic-color-palette-generator/index.html" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-doodax.com-06b6d4?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo">
     </a>
     <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" alt="React">
