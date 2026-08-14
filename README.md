@@ -1,20 +1,22 @@
 <div align="center">
-# 🚀 Color Palette Generator
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Color%20Palette%20Generator&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Color Palette Generator Header Banner" />
 
-<img src="https://picsum.photos/1200/600?grayscale&blur=2" alt="Doodax Color Palette Generator Banner" style="border-radius: 10px; margin-bottom: 20px;">
+  <h1>🚀 Color Palette Generator</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/color-palette-generator"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Color Palette Generator** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -27,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -34,89 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# 🎨 Doodax - Professional AI Color Palette Generator
-
-<div align="center">
-  <img src="https://picsum.photos/1200/600?grayscale&blur=2" alt="Doodax Color Palette Generator Banner" style="border-radius: 10px; margin-bottom: 20px;">
-  
-  <p align="center">
-    <a href="https://doodax.com/tools/cosmic-color-palette-generator/index.html" target="_blank">
-    </a>
-  </p>
-</div>
-
-<p align="center">
-</p>
-
----
-
-## 📖 Overview
-
-**Doodax** is a state-of-the-art, high-performance single-page application designed to simplify the color selection process for digital creators. Leveraging the **HSL (Hue, Saturation, Lightness)** color model, Doodax algorithmically generates color harmonies that are mathematically guaranteed to look good together.
-
-It features a fully immersive "multi-colored galaxy" interface that makes the creative process engaging and inspiring.
-
-## ✨ Key Features
-
-*   **🎨 Algorithmic Harmony Engine**: Instantly generates Monochromatic, Analogous, Complementary, and Triadic palettes.
-*   **🔭 Zero Latency**: Runs entirely client-side using React and TypeScript.
-*   **🌌 Immersive Experience**: Custom-built animated galaxy background with nebula effects.
-*   **📱 Responsive & Accessible**: Optimized for all devices with WCAG-friendly contrast considerations.
-*   **🔍 SEO Optimized**: Fully integrated Schema.org JSON-LD and semantic HTML structure.
-
-## 📂 Project Structure
-
-```bash
-doodax/
-├── public/
-│   ├── favicon.svg          # Brand Icon
-│   ├── robots.txt           # Crawler Directives
-│   └── sitemap.xml          # SEO Sitemap
-├── src/
-│   ├── components/
-│   │   ├── ColorPaletteGenerator.tsx  # Core App Logic
-│   │   └── ThemeLayout.tsx            # App Shell (Modal/Nav/Footer)
-│   ├── utils/
-│   │   ├── ColorMath.ts     # Pure Math for HSL/RGB conversion
-│   │   └── SeoArticle.tsx   # Rich SEO Content Component
-│   ├── App.tsx              # Main Entry Component
-│   └── index.tsx            # DOM Rendering
-├── index.html               # Entry Point
-└── package.json             # Dependencies
-```
-
-## 🚀 Getting Started
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/hsinidev/doodax.git
-    ```
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-3.  **Run development server**
-    ```bash
-    npm run dev
-    ```
-
-## 🤝 Contact & Branding
-
-This project is proudly developed and maintained by **HSINI MOHAMED**.
-
-*   **Portfolio**: [doodax.com](https://doodax.com)
-*   **GitHub**: [@hsinidev](https://github.com/hsinidev)
-*   **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-
----
-
-<p align="center">
-  Powered by <a href="https://github.com/hsinidev">HSINI MOHAMED</a>
-</p>
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
